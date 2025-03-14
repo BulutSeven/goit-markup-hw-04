@@ -231,6 +231,20 @@ menu:active {
   margin-top: 72px;
   gap: 24px;
 }
+.about-us-img {
+  height: 112px;
+  background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-us-img svg {
+  width: 64px;
+  height: 64px;
+}
 .about-us-title {
   line-height: 1.11;
   text-align: center;
